@@ -19,7 +19,7 @@
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/future4code/mello-whatslab-grupo2">
 
   <a href="https://www.linkedin.com/in/alessandra-martines-807265180/">
-    <img alt="By ->" src="https://img.shields.io/badge/Create%20by-Alessandra%2F%20Fabr%C3%ADcio%2F%20Lais-pink">
+    <img alt="By ->" src="https://img.shields.io/badge/Create%20by-Alessandra%2F%20Jonyelson-pink">
   </a>
 </p>
 
